@@ -1,0 +1,10 @@
+site_name: 合成实验手册
+nav:
+    - 首页: index.md
+    - 有机物:
+        - FOX-7: handbook/organic/FOX-7/FOX-7.md
+    - 无机物:
+        - 叠氮化银: handbook/inorganic/叠氮化银/叠氮化银.md
+
+markdown_extensions:
+  - admonition
