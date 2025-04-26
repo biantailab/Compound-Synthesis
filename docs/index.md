@@ -19,6 +19,7 @@
 ### 无机物
 
 * [叠氮化银](handbook/inorganic/叠氮化银/叠氮化银.md)
+* [氰化钾](handbook/inorganic/氰化钾/氰化钾.md)
 
 ### 络合物
 

@@ -5,6 +5,6 @@ nav:
         - FOX-7: handbook/organic/FOX-7/FOX-7.md
     - 无机物:
         - 叠氮化银: handbook/inorganic/叠氮化银/叠氮化银.md
-
+        - 氰化钾: handbook/inorganic/氰化钾/氰化钾.md
 markdown_extensions:
   - admonition
