@@ -15,6 +15,7 @@
 ### 有机物
 
 * [FOX-7](handbook/organic/FOX-7/FOX-7.md)
+* [甘脲](handbook/organic/甘脲/甘脲.md)
 
 ### 无机物
 
