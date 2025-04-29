@@ -17,6 +17,7 @@
 * [FOX-7](docs/handbook/organic/FOX-7/FOX-7.md)
 * [甘脲](docs/handbook/organic/甘脲/甘脲.md)
 * [PETN](docs/handbook/organic/PETN/PETN.md)
+* [TNT](docs/handbook/organic/TNT/TNT.md)
 
 ### 无机物
 
