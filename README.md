@@ -8,21 +8,21 @@
 
 如果你知道别的化合物的合成方法，或你发现手册中有问题并不能达到实验，欢迎 Fork 修改后提交 Pull request 就OK了。
 
-在写新的化合物时，请复制并修改已有的模板: [四苄基钛](docs/handbook/template/四苄基钛.md)。
+在写新的化合物时，请复制并修改已有的模板: [四苄基钛](handbook/template/四苄基钛.md)。
 
 ## 手册目录
 
 ### 有机物
 
-* [FOX-7](docs/handbook/organic/FOX-7/FOX-7.md)
-* [甘脲](docs/handbook/organic/甘脲/甘脲.md)
-* [PETN](docs/handbook/organic/PETN/PETN.md)
-* [TNT](docs/handbook/organic/TNT/TNT.md)
+* [FOX-7](handbook/organic/FOX-7/FOX-7.md)
+* [甘脲](handbook/organic/甘脲/甘脲.md)
+* [PETN](handbook/organic/PETN/PETN.md)
+* [TNT](handbook/organic/TNT/TNT.md)
 
 ### 无机物
 
-* [叠氮化银](docs/handbook/inorganic/叠氮化银/叠氮化银.md)
-* [氰化钾](docs/handbook/inorganic/氰化钾/氰化钾.md)
+* [叠氮化银](handbook/inorganic/叠氮化银/叠氮化银.md)
+* [氰化钾](handbook/inorganic/氰化钾/氰化钾.md)
 
 ### 络合物
 
