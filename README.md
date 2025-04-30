@@ -18,6 +18,7 @@
 * [甘脲](handbook/organic/甘脲/甘脲.md)
 * [PETN](handbook/organic/PETN/PETN.md)
 * [TNT](handbook/organic/TNT/TNT.md)
+* [DFTHP](handbook/organic/DFTHP/DFTHP.md)
 
 ### 无机物
 
