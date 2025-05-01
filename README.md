@@ -19,6 +19,7 @@
 * [PETN](handbook/organic/PETN/PETN.md)
 * [TNT](handbook/organic/TNT/TNT.md)
 * [DFTHP](handbook/organic/DFTHP/DFTHP.md)
+* [RDX](handbook/organic/RDX/RDX.md)
 
 ### 无机物
 
