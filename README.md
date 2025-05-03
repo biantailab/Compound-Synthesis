@@ -21,6 +21,7 @@
 * [DFTHP](handbook/organic/DFTHP/DFTHP.md)
 * [RDX](handbook/organic/RDX/RDX.md)
 * [1,4-DNI](handbook/organic/1,4-DNI/1,4-DNI.md)
+* [HBIW](handbook/organic/HBIW/HBIW.md)
 
 ### 无机物
 
