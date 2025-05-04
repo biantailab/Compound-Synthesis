@@ -22,6 +22,7 @@
 * [RDX](handbook/organic/RDX/RDX.md)
 * [1,4-DNI](handbook/organic/1,4-DNI/1,4-DNI.md)
 * [HBIW](handbook/organic/HBIW/HBIW.md)
+* [4-NI](handbook/organic/4-NI/4-NI.md)
 
 ### 无机物
 
