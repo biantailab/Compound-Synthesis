@@ -24,6 +24,7 @@
 * [HBIW](handbook/organic/HBIW/HBIW.md)
 * [4-NI](handbook/organic/4-NI/4-NI.md)
 * [DAF](handbook/organic/DAF/DAF.md)
+* [MPO](handbook/organic/MPO/MPO.md)
 
 ### 无机物
 
