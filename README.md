@@ -25,6 +25,7 @@
 * [4-NI](handbook/organic/4-NI/4-NI.md)
 * [DAF](handbook/organic/DAF/DAF.md)
 * [MPO](handbook/organic/MPO/MPO.md)
+* [ETN](handbook/organic/ETN/ETN.md)
 
 ### 无机物
 
